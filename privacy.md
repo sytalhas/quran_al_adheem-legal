@@ -42,8 +42,8 @@ This information is automatically removed when you uninstall the App. We have no
 
 To function, the App connects to the following third-party servers to download publicly available Qur'anic content. These connections are made directly from your device to the third party; we never see or intermediate the traffic.
 
-- **download.quranicaudio.com** — Qur'anic recitation audio files. Operated by Quranic Audio.
-- **quran.com** — Qur'anic font assets used for rendering Arabic script. Operated by Quran.com / Tarteel AI.
+- **download.quranicaudio.com** — Qur'anic recitation audio files, provided by the QuranicAudio.com community archive.
+- **quran.com** — Qur'anic font assets used for rendering Arabic script, provided by the Quran.com project.
 
 When your device contacts these services, those services will necessarily see your device's IP address and the specific file being requested, as is the case with any internet request. We do not control these third parties and we encourage you to review their respective privacy policies if you have concerns. We do not send them any personal information about you; we only issue standard HTTPS file requests.
 
